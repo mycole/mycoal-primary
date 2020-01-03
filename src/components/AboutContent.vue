@@ -14,7 +14,7 @@
       <br>
       <h3>aspiring web developer</h3>
       <br>
-      <h5>pardon the lack of.....
+      <h5>pardon the lack of..
         <br>
         <br>a website.
       </h5>
